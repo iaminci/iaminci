@@ -15,18 +15,10 @@ DevOps Engineer who spends more time fixing things than building them from scrat
 ## Projects
 - **Opsly MD**
   Local-first markdown workspace in the browser. No backend. No tracking.
- 
-  Website: https://opsly.dev
-  Try it: https://md.opsly.dev
-  Repo: https://github.com/iaminci/opsly-md
-
 - **ECR Token Updater**
   Keeps Kubernetes pulling images from AWS ECR without breaking at 2am.
-  Repo: https://github.com/iaminci/ecr-token-updater
-
 - **netstat (macOS)**
   CLI tool for inspecting active network connections and ports on macOS.
-  Repo: https://github.com/iaminci/homebrew-netstat-macos
 
 ## Currently messing with
 - Go (because apparently I needed more problems)
