@@ -24,7 +24,7 @@ DevOps Engineer who spends more time fixing things than building them from scrat
 
 - **netstat (macOS)**
   CLI tool for inspecting active network connections and ports on macOS.
-  Repo: https://github.com/iaminci/netstat
+  Repo: https://github.com/iaminci/homebrew-netstat-macos
 
 ## Currently messing with
 - Go (because apparently I needed more problems)
