@@ -15,6 +15,7 @@ DevOps Engineer who spends more time fixing things than building them from scrat
 ## Projects
 - **Opsly MD**
   Local-first markdown workspace in the browser. No backend. No tracking.
+ 
   Website: https://opsly.dev
   Try it: https://md.opsly.dev
   Repo: https://github.com/iaminci/opsly-md
