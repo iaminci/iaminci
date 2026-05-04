@@ -7,7 +7,7 @@ DevOps Engineer who spends more time fixing things than building them from scrat
 → Try the app: https://md.opsly.dev
 
 ## What I do
-- Kubernetes (on-prem + cloud)
+- Kubernetes (cloud + homelab)
 - CI/CD pipelines that mostly work
 - Debugging things that “worked yesterday”
 - Automating stuff so I don’t have to do it twice
